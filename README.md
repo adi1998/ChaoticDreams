@@ -14,7 +14,7 @@ Start any trial you want from the Pitch Black Stone.
 
 ![menu](images/menu.png)
 
-You can configure the run length and more for full the full random runs using the DreamDiveTweaks ImGui menu.
+You can configure the run length and more for full the full random runs using the [DreamDiveTweaks](https://thunderstore.io/c/hades-ii/p/zerp/DreamDiveTweaks/) ImGui menu.
 
 ## Issues and feedback
 
