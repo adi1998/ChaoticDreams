@@ -18,4 +18,4 @@ You can configure the run length and more for full the full random runs using th
 
 ## Issues and feedback
 
-Report any issues or feedback [here](https://github.com/adi1998/DreamDiveTweaks/issues) or on [Discord](https://discord.gg/bKvJTAJj).
+Report any issues or feedback [here](https://github.com/adi1998/ChaoticDreams/issues) or on [Discord](https://discord.gg/bKvJTAJj).

@@ -16,9 +16,9 @@ bountyAPI.RegisterBounty({
     BaseData = {
 		BiomeIcon = bountyIcon,
 		BiomeText = "Random Start",
-        -- UnlockGameStateRequirements = {
-        --     NamedRequirements = { "DreamRunsUnlocked", "PackageBountyRandom" },
-        -- },
+        UnlockGameStateRequirements = {
+            NamedRequirements = { "DreamRunsUnlocked", "PackageBountyRandom" },
+        },
         Encounters = {},
         RunOverrides = {
             IsDreamRun = true,
@@ -47,9 +47,9 @@ bountyAPI.RegisterBounty({
     BaseData = {
 		BiomeIcon = bountyIcon,
 		BiomeText = "Random Start",
-        -- UnlockGameStateRequirements = {
-        --     NamedRequirements = { "DreamRunsUnlocked", "PackageBountyRandom" },
-        -- },
+        UnlockGameStateRequirements = {
+            NamedRequirements = { "DreamRunsUnlocked", "PackageBountyRandom" },
+        },
         Encounters = {},
         RunOverrides = {
             IsDreamRun = true,
@@ -78,9 +78,9 @@ bountyAPI.RegisterBounty({
     BaseData = {
 		BiomeIcon = bountyIcon,
 		BiomeText = "Random Start",
-        -- UnlockGameStateRequirements = {
-        --     NamedRequirements = { "DreamRunsUnlocked", "PackageBountyRandom" },
-        -- },
+        UnlockGameStateRequirements = {
+            NamedRequirements = { "DreamRunsUnlocked", "PackageBountyRandom" },
+        },
         Encounters = {},
         RunOverrides = {
             IsDreamRun = true,
