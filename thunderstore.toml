@@ -1,0 +1,43 @@
+[config]
+schemaVersion = "0.0.1"
+
+[package]
+namespace = "zerp"
+name = "ChaoticDreams"
+versionNumber = "0.0.1"
+description = "Adds new Dream Dive themed Chaos Trials."
+websiteUrl = "https://github.com/adi1998/ChaoticDreams"
+containsNsfwContent = false
+
+[package.dependencies]
+zerp-DreamDiveTweaks = "1.2.0"
+Siuhnexus-BountyAPI = "1.0.1"
+
+[build]
+icon = "./icon.png"
+readme = "./README.md"
+outdir = "./build"
+
+[[build.copy]]
+source = "./CHANGELOG.md"
+target = "./CHANGELOG.md"
+
+[[build.copy]]
+source = "./LICENSE"
+target = "./LICENSE"
+
+[[build.copy]]
+source = "./src"
+target = "./plugins"
+
+# Uncomment (remove the #) the three lines below if you have any files to copy to the plugins_data folder (like custom .pkg files)
+[[build.copy]]
+source = "./data"
+target = "./plugins_data"
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "hades-ii", ]
+
+[publish.categories]
+hades-ii = [ "mods", ]

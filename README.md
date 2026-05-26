@@ -1,0 +1,21 @@
+## Chaotic Dreams
+
+Adds new Dream Dive themed Chaos Trials.
+
+## Installation
+
+Use r2modman by ebkr from [Thunderstore](https://thunderstore.io/package/ebkr/r2modman/) or [GitHub](https://github.com/ebkr/r2modmanPlus/releases/latest).
+
+It is recommended to backup your save from `%USERPROFILE%\Saved Games\Hades II\Profile*.sav` in case there are unknown issues with the mod.
+
+## Usage
+
+Start any trial you want from the Pitch Black Stone.
+
+![menu](images/menu.png)
+
+You can configure the run length and more for full the full random runs using the DreamDiveTweaks ImGui menu.
+
+## Issues and feedback
+
+Report any issues or feedback [here](https://github.com/adi1998/DreamDiveTweaks/issues) or on [Discord](https://discord.gg/bKvJTAJj).
