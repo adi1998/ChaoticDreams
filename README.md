@@ -1,6 +1,6 @@
 ## Chaotic Dreams
 
-Adds new Dream Dive themed Chaos Trials.
+Adds new Dream Dive themed Chaos Trials. Currently includes 3 trials in the style of Chaos Above/Below trials. More bespoke trials are planned to be addded in the future.
 
 ## Installation
 
