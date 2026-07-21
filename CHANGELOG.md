@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+- Relaxed unlock requirements (doesn't require to in post ending state)
+
 ## [0.1.0] - 2026-05-26
 
 - First version of the mod!
