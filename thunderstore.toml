@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "zerp"
 name = "ChaoticDreams"
-versionNumber = "0.1.0"
+versionNumber = "0.1.1"
 description = "Adds new Dream Dive themed Chaos Trials."
 websiteUrl = "https://github.com/adi1998/ChaoticDreams"
 containsNsfwContent = false
