@@ -18,4 +18,4 @@ You can configure the run length and more for the full random runs using the [Dr
 
 ## Issues and feedback
 
-Report any issues or feedback [here](https://github.com/adi1998/ChaoticDreams/issues) or on [Discord](https://discord.gg/bKvJTAJj).
+Report any issues or feedback [here](https://github.com/adi1998/ChaoticDreams/issues) or on [Discord](https://discord.gg/KuMbyrN).
